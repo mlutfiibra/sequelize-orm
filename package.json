@@ -1,0 +1,28 @@
+{
+  "name": "orm-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/classic-fox-2019/orm-sequelize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/classic-fox-2019/orm-sequelize/issues"
+  },
+  "homepage": "https://github.com/classic-fox-2019/orm-sequelize#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "pg": "^7.9.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^5.1.0"
+  },
+  "devDependencies": {
+    "chalk": "^2.4.2"
+  }
+}
